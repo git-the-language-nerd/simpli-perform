@@ -1,7 +1,6 @@
-[('57224', 'Toxicofera (Greek for "those who bear toxins") , is a hypothetical clade which represents about 4600 species (nearly 60 %) of extant squamates (scaled lizards.)'), ('117533', 'The islands of the Caribbean Sea, collectively known as the West Indies, are sorted by size and location into the Bahamas (or Lucayan archipelago, which includes the Turks and Caicos Islands) , the Lesser Antilles, and the Greater Antilles.'), ('3709', 'Some websites do not allow typographic quotation marks or apostrophes in posts (one such example being YouTube) .'), ('50928', 'Ecological yield is the harvestable population growth of an ecosystem.'), ('126524', "When he was 16-years-old, Davey's mother left with him to England in 1931.")]
-_____
- Simplify this sentence. Change it as much as possible without altering the meaning. Sentence:  
- _____
+Instruction_prompt: Simplify this sentence. Change it as much as possible without altering the meaning. Sentence:  
+___________________
+___________________
 ___________________
 Inference on sentence  1 / 5000 after  00:00:22
 Using dyn_max_length of  129
