@@ -1,0 +1,101 @@
+,source_index,original_sent,simplified_sent,prompt,Lev_distance
+0,5185,"Mit der 1-2-3-Karte soll man in Zukunft für alle öffentliche Verkehrsmittel nur einen Euro pro Tag bezahlen, solange man in nur einem Bundesland fährt.",Mit der 1-2-3-Karte soll man nur einen Euro pro Tag für öffentliche Verkehrsmittel bezahlen.,Llama-3.1-70b-Versatile (via groq),87
+1,10329,Zusammen mit dem Friedens-Nobelpreis bekommt das WFP ein Preisgeld von rund 950.000 Euro.,Das WFP bekommt einen Preis von rund 950.000 Euro.,Llama-3.1-70b-Versatile (via groq),46
+2,1178,Boris Johnson droht mit einem harten Brexit.,Boris Johnson droht mit einem harten Austritt aus der EU.,Llama-3.1-70b-Versatile (via groq),17
+3,11229,Der Käufer will für die Öffentlichkeit unerkannt bleiben.,Der Käufer will anonym bleiben.,Llama-3.1-70b-Versatile (via groq),30
+4,8935,Die Zahl der Kurzarbeiter steigt weiter.,Die Zahl der Kurzarbeiter steigt.,Llama-3.1-70b-Versatile (via groq),7
+5,4603,In Australien kämpft die Feuerwehr gegen starke Busch-Brände.,In Australien kämpft die Feuerwehr gegen starke Brände.,Llama-3.1-70b-Versatile (via groq),6
+6,25,Durch den Brand entstand eine große schwarze Rauchwolke.,Durch den Brand entstand eine große schwarze Rauchwolke.,Llama-3.1-70b-Versatile (via groq),0
+7,8485,Der russische Präsident Wladimir Putin erinnerte an die zahlreichen Toten des Zweiten Weltkriegs.,Der russische Präsident Wladimir Putin erinnerte an die Toten des Zweiten Weltkriegs.,Llama-3.1-70b-Versatile (via groq),12
+8,4229,Der Müll stammt vom Festland und von Fischerbooten.,Der Müll stammt vom Festland und von Booten.,Llama-3.1-70b-Versatile (via groq),8
+9,4722,Erst mit der Angelobung wird die Regierung eingesetzt und kann mit der Arbeit beginnen.,Erst nach der Angelobung kann die Regierung arbeiten.,Llama-3.1-70b-Versatile (via groq),43
+10,2381,"Sie werfen ihm vor, nicht genug gegen die Brände zu tun.","Sie werfen ihm vor, nicht genug gegen die Brände zu tun.",Llama-3.1-70b-Versatile (via groq),0
+11,5498,Laut einer Studie sind die meisten Menschen in Österreich keine Vielflieger.,Die meisten Menschen in Österreich fliegen nicht oft.,Llama-3.1-70b-Versatile (via groq),39
+12,2671,Später arbeitete Seisenbacher als Judo-Trainer.,Später arbeitete Seisenbacher als Trainer.,Llama-3.1-70b-Versatile (via groq),5
+13,8566,"Das bedeutet, dass das Volksbegehren im Parlament besprochen werden muss.","Das bedeutet, dass das Volksbegehren im Parlament besprochen werden muss.",Llama-3.1-70b-Versatile (via groq),0
+14,12056,"In Australien hofft man, dass es nicht wieder zu einer Feuerkatastrophe wie im letzten Jahr kommt.","In Australien hofft man, dass es nicht wieder zu Bränden kommt.",Llama-3.1-70b-Versatile (via groq),39
+15,4366,Mindestens 5 Tote bei Vulkanausbruch in Neuseeland.,Mindestens 5 Menschen starben bei einem Vulkanausbruch.,Llama-3.1-70b-Versatile (via groq),34
+16,5815,Nicht in jedem Spital in Österreich kann der Corona-Virus behandelt werden. 59 Spitäler wurden nun speziell dafür ausgerüstet.,Nicht alle Krankenhäuser in Österreich können den Corona-Virus behandeln.,Llama-3.1-70b-Versatile (via groq),79
+17,10178,Österreichs Verfassung ist 100 Jahre alt.,Österreichs Verfassung ist 100 Jahre alt.,Llama-3.1-70b-Versatile (via groq),0
+18,9209,"In Hiroshima hat deshalb am Donnerstag eine Feier stattgefunden, bei der an die vielen Opfer erinnert wurde.",In Hiroshima wurde an die Opfer erinnert.,Llama-3.1-70b-Versatile (via groq),69
+19,2238,Ein sehr wichtiges Thema für die SPÖ in diesem Nationalrats-Wahlkampf ist der Klimawandel.,Der Klimawandel ist ein wichtiges Thema für die SPÖ.,Llama-3.1-70b-Versatile (via groq),68
+20,9290,Am Sonntag hat in Weißrussland die Präsidenten-Wahl stattgefunden.,In Weißrussland hat die Präsidenten-Wahl stattgefunden.,Llama-3.1-70b-Versatile (via groq),20
+21,2421,"Die ÖVP will den ""Falter"" verklagen.","Die ÖVP will den ""Falter"" verklagen.",Llama-3.1-70b-Versatile (via groq),0
+22,6808,Diese Patienten können oft nicht mehr alleine atmen und brauchen dafür eine spezielle Maschine.,Diese Patienten brauchen eine spezielle Maschine zum Atmen.,Llama-3.1-70b-Versatile (via groq),56
+23,5711,Bis zum Jahr 2024 wird sie wahrscheinlich ein jährliches Defizit von rund 80 Millionen Euro aufweisen.,Bis 2024 wird es wahrscheinlich ein Defizit von 80 Millionen Euro geben.,Llama-3.1-70b-Versatile (via groq),34
+24,1934,"Bis Donnerstag haben das die Grünen, die KPÖ und die Partei ""Der Wandel"" geschafft.","Die Grünen, die KPÖ und die Partei ""Der Wandel"" haben es geschafft.",Llama-3.1-70b-Versatile (via groq),34
+25,8693,Derzeit sind in Österreich 403.382 Personen in Kurzarbeit.,Derzeit sind 403.382 Menschen in Kurzarbeit.,Llama-3.1-70b-Versatile (via groq),18
+26,7708,"Viele fürchten aber, dass viele Lokale diese Schließungen wegen der Corona-Krise nicht überleben werden.","Viele fürchten, dass viele Lokale schließen werden.",Llama-3.1-70b-Versatile (via groq),53
+27,2592,"Nachbarn sagen, dass er und die Frau sich scheiden lassen wollten.","Nachbarn sagen, dass er und seine Frau sich scheiden lassen wollten.",Llama-3.1-70b-Versatile (via groq),3
+28,8731,Laut Medienberichten sollen die flüchtigen Verdächtigen ein schwarzes Auto des Typs Ford Tourneo fahren.,Die flüchtigen Verdächtigen fahren ein schwarzes Auto.,Llama-3.1-70b-Versatile (via groq),64
+29,7576,"Er kam aber nicht weit, denn die Polizei stoppte ihn nach wenigen Kilometern.","Er kam nicht weit, weil die Polizei ihn stoppte.",Llama-3.1-70b-Versatile (via groq),36
+30,6563,"Während Corona-Krise wird niemandem Strom, Gas und Wärme abgedreht.",Während der Corona-Krise wird niemandem der Strom abgedreht.,Llama-3.1-70b-Versatile (via groq),21
+31,12621,Laut der Umfrage hat etwa die Hälfte aller Schüler Schwierigkeiten mit dem Aufstehen in der Früh.,Die Hälfte aller Schüler hat Schwierigkeiten mit dem Aufstehen.,Llama-3.1-70b-Versatile (via groq),43
+32,12610,Das besagt eine Studie.,Das sagt eine Studie.,Llama-3.1-70b-Versatile (via groq),2
+33,9038,Einige der Neuinfektionen gab es in der Stadt Dalian.,Einige Neuinfektionen gab es in der Stadt Dalian.,Llama-3.1-70b-Versatile (via groq),4
+34,2345,"Die Politiker glauben, dass der Premier-Minister sie ausgetrickst hat, um endlich zu einer Entscheidung über den Brexit zu kommen.","Die Politiker glauben, dass der Premier-Minister sie ausgetrickst hat.",Llama-3.1-70b-Versatile (via groq),60
+35,12472,Der Wand-Teppich gehört zum UNESCO-Weltkulturerbe.,Der Wand-Teppich ist ein UNESCO-Weltkulturerbe.,Llama-3.1-70b-Versatile (via groq),8
+36,1431,US-Amerikaner verschlang 71 Hotdogs in 10 Minuten.,Ein US-Amerikaner aß 71 Hotdogs in 10 Minuten.,Llama-3.1-70b-Versatile (via groq),13
+37,9027,Am stärksten war der Rückgang in Wien.,Der Rückgang war am stärksten in Wien.,Llama-3.1-70b-Versatile (via groq),22
+38,2748,Am Samstag sind 2 wichtige Öl-Anlagen in Saudi-Arabien durch Drohnenangriffe beschädigt worden.,Zwei Öl-Anlagen in Saudi-Arabien wurden beschädigt.,Llama-3.1-70b-Versatile (via groq),48
+39,5114,3 Menschen starben bei Absturz von Lösch-Flugzeug in Australien.,3 Menschen starben bei einem Flugzeugabsturz.,Llama-3.1-70b-Versatile (via groq),29
+40,8616,In vielen Autos gibt es eine Freisprech-Einrichtung.,In vielen Autos gibt es eine Freisprech-Einrichtung.,Llama-3.1-70b-Versatile (via groq),0
+41,7617,Schwarz-Arbeit ist illegal.,Schwarz-Arbeit ist verboten.,Llama-3.1-70b-Versatile (via groq),8
+42,4494,In der spanischen Hauptstadt Madrid hat vom 2. bis zum 15 Dezember die UNO-Klima-Konferenz stattgefunden.,In Madrid hat die UNO-Klima-Konferenz stattgefunden.,Llama-3.1-70b-Versatile (via groq),53
+43,12896,Grund für den Lockdown sind die vielen Corona-Neuinfektionen.,Der Lockdown ist wegen der Corona-Neuinfektionen.,Llama-3.1-70b-Versatile (via groq),23
+44,5433,In China ist vor kurzem ein neuer Virus ausgebrochen.,In China ist ein neuer Virus ausgebrochen.,Llama-3.1-70b-Versatile (via groq),11
+45,11553,"Sie hat am Sonntag angekündigt, es zu blockieren.","Sie hat angekündigt, es zu blockieren.",Llama-3.1-70b-Versatile (via groq),11
+46,6562,Die Soldaten werden auch an Hotline-Telefonnummern eingesetzt.,Die Soldaten werden an Hotline-Telefonnummern eingesetzt.,Llama-3.1-70b-Versatile (via groq),5
+47,5430,49 Prozent der befragten US-Bürger sind zufrieden mit seiner Arbeit als Präsident.,49 Prozent der US-Bürger sind zufrieden mit dem Präsidenten.,Llama-3.1-70b-Versatile (via groq),28
+48,9056,"Die Schulen wissen noch immer nicht, wie im September der Unterricht gestaltet werden soll.","Die Schulen wissen noch nicht, wie der Unterricht im September laufen soll.",Llama-3.1-70b-Versatile (via groq),32
+49,8044,"Ein Handy-Video zeigt, dass bei dem Einsatz ein weißer Polizist mehr als 5 Minuten lang auf Floyds Genick kniete.","Ein Video zeigt, dass ein Polizist mehr als 5 Minuten auf Floyds Genick kniete.",Llama-3.1-70b-Versatile (via groq),34
+50,6486,Die Grenze zu Deutschland ist geschlossen.,Die Grenze zu Deutschland ist geschlossen.,Llama-3.1-70b-Versatile (via groq),0
+51,8396,"Ist jemand mit dem Corona-Virus infiziert, dann kommt der Virus ins Wasser, wenn derjenige aufs Klo muss.","Wenn jemand mit dem Corona-Virus infiziert ist, kann der Virus ins Wasser gelangen, wenn er aufs Klo geht.",Llama-3.1-70b-Versatile (via groq),30
+52,5334,Der Chef der Regierung heißt Premierminister.,Der Chef der Regierung heißt Premierminister.,Llama-3.1-70b-Versatile (via groq),0
+53,1951,Die Temperaturen erreichen 20 bis 27 Grad.,Die Temperaturen liegen zwischen 20 und 27 Grad.,Llama-3.1-70b-Versatile (via groq),12
+54,9163,"Die beiden Männer aus den USA waren Ende Mai mit dem Raumschiff ""Crew Dragon"" zur internationalen Raumstation ISS geflogen.","Zwei Männer aus den USA sind mit dem Raumschiff ""Crew Dragon"" zur Raumstation ISS geflogen.",Llama-3.1-70b-Versatile (via groq),36
+55,6343,Die meisten Corona-Fälle in Österreich gibt es in Tirol.,Die meisten Corona-Fälle in Österreich gibt es in Tirol.,Llama-3.1-70b-Versatile (via groq),0
+56,1751,Die Grünen können an der Nationalrats-Wahl teilnehmen.,Die Grünen dürfen an der Nationalrats-Wahl teilnehmen.,Llama-3.1-70b-Versatile (via groq),4
+57,924,"Oft passieren Unfälle mit Kindern, die zu Fuß oder mit dem Rad unterwegs waren.","Oft passieren Unfälle mit Kindern, die zu Fuß oder mit dem Rad unterwegs sind.",Llama-3.1-70b-Versatile (via groq),5
+58,2773,Die Tierfamilie besteht nun aus 8 Affen.,Die Affen-Familie besteht jetzt aus 8 Affen.,Llama-3.1-70b-Versatile (via groq),11
+59,641,"Eine Razzia wird meistens genau geplant, damit niemand entkommen kann.","Eine Razzia wird genau geplant, damit niemand entkommen kann.",Llama-3.1-70b-Versatile (via groq),9
+60,6418,So können zum Beispiel größere Ansammlungen von Menschen entdeckt werden.,So können große Menschenmengen entdeckt werden.,Llama-3.1-70b-Versatile (via groq),34
+61,12443,"Österreich will ihn aber auch einführen, wenn sich die EU doch dagegen entschließt.","Österreich will etwas einführen, auch wenn die EU dagegen ist.",Llama-3.1-70b-Versatile (via groq),33
+62,675,Auf dem Sarg liegt Laudas Rennhelm.,Auf dem Sarg liegt Laudas Rennhelm.,Llama-3.1-70b-Versatile (via groq),0
+63,11257,In 3 Wochen wird sie die zweite Impfung erhalten.,Sie wird in 3 Wochen ihre zweite Impfung erhalten.,Llama-3.1-70b-Versatile (via groq),20
+64,7229,Im Friseur-Laden müssen die Kunden genügend Abstand zu anderen Kunden halten.,Im Friseur-Laden müssen die Kunden Abstand zu anderen Kunden halten.,Llama-3.1-70b-Versatile (via groq),9
+65,8516,Salzburg liegt derzeit mit großem Vorsprung an erster Stelle in der Bundesliga.,Salzburg liegt derzeit an erster Stelle in der Bundesliga.,Llama-3.1-70b-Versatile (via groq),21
+66,6856,Wegen der Corona-Krise hat man keine Speisen von Lokalen abholen dürfen.,Wegen der Corona-Krise durften keine Speisen von Lokalen abgeholt werden.,Llama-3.1-70b-Versatile (via groq),13
+67,6446,"Alle 4 Jahre finden die Sommerspiele statt, und dazwischen alle 4 Jahre die Winterspiele.","Alle 4 Jahre finden die Sommerspiele statt, und dazwischen die Winterspiele.",Llama-3.1-70b-Versatile (via groq),13
+68,6921,In Wien gibt es eigenes Zeichen für Maskenpflicht in Verkehrsmitteln.,In Wien gibt es ein eigenes Zeichen für Maskenpflicht in Verkehrsmitteln.,Llama-3.1-70b-Versatile (via groq),4
+69,2096,In Italien bilden die Parteien Lega und 5 Sterne gemeinsam die Regierung.,In Italien bilden zwei Parteien gemeinsam die Regierung.,Llama-3.1-70b-Versatile (via groq),21
+70,5951,Ludwig zeigte sich begeistert von seinem Paten-Tier.,Ludwig war begeistert von seinem Paten-Tier.,Llama-3.1-70b-Versatile (via groq),11
+71,3116,"Es kann aber auch sein, dass der Mann psychische Probleme hatte.",Der Mann könnte psychische Probleme gehabt haben.,Llama-3.1-70b-Versatile (via groq),39
+72,1330,Eigentlich hätte es dieses Verbot längst geben sollen.,Es hätte längst ein Verbot geben sollen.,Llama-3.1-70b-Versatile (via groq),25
+73,5401,Die EU-Kommission will Krebs besser bekämpfen.,Die EU-Kommission will Krebs besser bekämpfen.,Llama-3.1-70b-Versatile (via groq),0
+74,3230,Vor 15 Jahren bekam schon die Schriftstellerin Elfriede Jelinek den Literatur-Nobelpreis.,Vor 15 Jahren bekam Elfriede Jelinek den Literatur-Nobelpreis.,Llama-3.1-70b-Versatile (via groq),27
+75,12081,"Im stärksten Winter-Bundesland Tirol rechnet das Wifo nur mit 3,1 Millionen Nächtigungen.","In Tirol rechnet man mit nur 3,1 Millionen Nächtigungen.",Llama-3.1-70b-Versatile (via groq),37
+76,6434,"Schulen, Restaurants und die meisten Geschäfte sind geschlossen.","Schulen, Restaurants und Geschäfte sind geschlossen.",Llama-3.1-70b-Versatile (via groq),12
+77,12709,Wenig später wurde ein 21-jähriger Mann verhaftet.,Ein 21-jähriger Mann wurde verhaftet.,Llama-3.1-70b-Versatile (via groq),26
+78,12631,"48.500 Menschen haben sich bereits für die Impfung angemeldet, das sind 76 Prozent aller Berechtigten in dem Bezirk.",48.500 Menschen haben sich für die Impfung angemeldet.,Llama-3.1-70b-Versatile (via groq),62
+79,7921,Oder in ihrem Zuhause fehlt das Internet.,Oder es fehlt das Internet zu Hause.,Llama-3.1-70b-Versatile (via groq),23
+80,8420,Seit Montag kann man in Österreich das Klima-Volksbegehren unterstützen.,Seit Montag kann man in Österreich das Klima-Volksbegehren unterstützen.,Llama-3.1-70b-Versatile (via groq),0
+81,4844,"Vor allem Tiere wie Koalas, Kängurus und Vögel sind durch die Brände getötet worden.",Viele Tiere wie Koalas und Vögel sind durch die Brände getötet worden.,Llama-3.1-70b-Versatile (via groq),16
+82,6961,Wegen dem Corona-Virus waren viele Geschäfte in Österreich seit einem Monat zu.,Viele Geschäfte in Österreich waren wegen des Corona-Virus geschlossen.,Llama-3.1-70b-Versatile (via groq),60
+83,686,ÖVP nominierte Kurz zum Spitzen-Kandidaten für die Nationalrats-Wahl.,Die ÖVP nominierte Kurz zum Spitzen-Kandidaten.,Llama-3.1-70b-Versatile (via groq),30
+84,10647,Im Bundesländer-Vergleich haben die Steirer im Vorjahr am meisten gespart.,Die Steirer haben im Vorjahr am meisten gespart.,Llama-3.1-70b-Versatile (via groq),33
+85,12831,"Die Impf-Dosen sollten offenbar heimlich ins Ausland gebracht werden, obwohl in der EU noch viele Impfdosen fehlen.",Die Impf-Dosen sollten heimlich ins Ausland gebracht werden.,Llama-3.1-70b-Versatile (via groq),55
+86,8730,Weitere Verdächtige waren am Mittwochnachmittag noch auf der Flucht.,Weitere Verdächtige sind auf der Flucht.,Llama-3.1-70b-Versatile (via groq),30
+87,6547,Die Nacht wird also eine Stunde kürzer sein.,Die Nacht wird eine Stunde kürzer.,Llama-3.1-70b-Versatile (via groq),10
+88,1830,"Die meisten Asyl-Anträge kommen von Menschen aus Afghanistan, Syrien, Iran und dem Irak.",Die meisten Asyl-Anträge kommen von Menschen aus Afghanistan und Syrien.,Llama-3.1-70b-Versatile (via groq),22
+89,1599,"Donald Trump drohte deshalb, Nordkorea zu vernichten.","Donald Trump drohte, Nordkorea zu vernichten.",Llama-3.1-70b-Versatile (via groq),8
+90,1756,14-jähriger Bub soll seine eigene Mutter erstochen haben.,Ein 14-jähriger Junge soll seine Mutter erstochen haben.,Llama-3.1-70b-Versatile (via groq),15
+91,6744,"Die österreichische Regierung denkt darüber nach, langsam wieder die Geschäfte zu öffnen.","Die Regierung denkt darüber nach, die Geschäfte wieder zu öffnen.",Llama-3.1-70b-Versatile (via groq),38
+92,263,41 Tote bei Flugzeug-Notlandung in Moskau.,41 Menschen starben bei einer Flugzeug-Notlandung in Moskau.,Llama-3.1-70b-Versatile (via groq),20
+93,4273,Auf diese Weise soll die Frau illegal mehr als 4 Millionen Euro bekommen haben.,Eine Frau soll illegal mehr als 4 Millionen Euro bekommen haben.,Llama-3.1-70b-Versatile (via groq),21
+94,6440,Zurzeit werden weltweit viele sportliche Ereignisse und Wettbewerbe abgesagt.,Viele sportliche Ereignisse werden abgesagt.,Llama-3.1-70b-Versatile (via groq),37
+95,10306,Derzeit sind in Österreich 9.930 Menschen in Österreich mit dem Virus angesteckt.,Derzeit sind 9.930 Menschen in Österreich mit dem Virus angesteckt.,Llama-3.1-70b-Versatile (via groq),14
+96,7140,Das Gemüse hat eine gelbe Schale mit violetten Streifen.,Das Gemüse hat eine gelbe Schale mit violetten Streifen.,Llama-3.1-70b-Versatile (via groq),0
+97,5457,Danach brach das Flugzeug in mehrere Teile und geriet teilweise in Brand.,Das Flugzeug brach in mehrere Teile und geriet in Brand.,Llama-3.1-70b-Versatile (via groq),29
+98,11914,Darum hat im Jahr 2020 die Schwarz-Arbeit in Österreich stark zugenommen.,Die Schwarz-Arbeit in Österreich hat 2020 stark zugenommen.,Llama-3.1-70b-Versatile (via groq),32
+99,8520,"Heute sind 193 Länder Mitglieder der UNO, das sind fast alle Länder der Welt.",Fast alle Länder der Welt sind Mitglieder der UNO.,Llama-3.1-70b-Versatile (via groq),44

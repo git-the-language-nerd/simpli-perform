@@ -1,0 +1,101 @@
+,source_index,original_sent,simplified_sent,prompt,Lev_distance
+0,5185,"Mit der 1-2-3-Karte soll man in Zukunft für alle öffentliche Verkehrsmittel nur einen Euro pro Tag bezahlen, solange man in nur einem Bundesland fährt.","Mit der 1-2-3-Karte soll man bald nur einen Euro pro Tag für öffentliche Verkehrsmittel zahlen, wenn man in einem Bundesland bleibt.",ChatGPT-4o,64
+1,10329,Zusammen mit dem Friedens-Nobelpreis bekommt das WFP ein Preisgeld von rund 950.000 Euro.,Zusammen mit dem Friedens-Nobelpreis bekommt das WFP rund 950.000 Euro.,ChatGPT-4o,18
+2,1178,Boris Johnson droht mit einem harten Brexit.,Boris Johnson droht mit einem harten Brexit.,ChatGPT-4o,0
+3,11229,Der Käufer will für die Öffentlichkeit unerkannt bleiben.,Der Käufer möchte unerkannt bleiben.,ChatGPT-4o,24
+4,8935,Die Zahl der Kurzarbeiter steigt weiter.,Die Zahl der Kurzarbeiter steigt weiter an.,ChatGPT-4o,3
+5,4603,In Australien kämpft die Feuerwehr gegen starke Busch-Brände.,In Australien kämpft die Feuerwehr gegen große Buschbrände.,ChatGPT-4o,7
+6,25,Durch den Brand entstand eine große schwarze Rauchwolke.,Durch den Brand entstand eine große Rauchwolke.,ChatGPT-4o,9
+7,8485,Der russische Präsident Wladimir Putin erinnerte an die zahlreichen Toten des Zweiten Weltkriegs.,Der russische Präsident Putin erinnerte an die vielen Toten des Zweiten Weltkriegs.,ChatGPT-4o,17
+8,4229,Der Müll stammt vom Festland und von Fischerbooten.,Der Müll kommt vom Festland und von Fischerbooten.,ChatGPT-4o,3
+9,4722,Erst mit der Angelobung wird die Regierung eingesetzt und kann mit der Arbeit beginnen.,Die Regierung kann erst nach der Angelobung mit der Arbeit beginnen.,ChatGPT-4o,46
+10,2381,"Sie werfen ihm vor, nicht genug gegen die Brände zu tun.","Sie werfen ihm vor, zu wenig gegen die Brände zu tun.",ChatGPT-4o,7
+11,5498,Laut einer Studie sind die meisten Menschen in Österreich keine Vielflieger.,Laut einer Studie fliegen die meisten Menschen in Österreich nicht oft.,ChatGPT-4o,21
+12,2671,Später arbeitete Seisenbacher als Judo-Trainer.,Später arbeitete Seisenbacher als Judo-Trainer.,ChatGPT-4o,0
+13,8566,"Das bedeutet, dass das Volksbegehren im Parlament besprochen werden muss.",Das Volksbegehren muss im Parlament besprochen werden.,ChatGPT-4o,29
+14,12056,"In Australien hofft man, dass es nicht wieder zu einer Feuerkatastrophe wie im letzten Jahr kommt.","In Australien hofft man, dass es nicht wieder so schlimme Feuer wie letztes Jahr gibt.",ChatGPT-4o,28
+15,4366,Mindestens 5 Tote bei Vulkanausbruch in Neuseeland.,Mindestens 5 Menschen sind bei einem Vulkanausbruch in Neuseeland gestorben.,ChatGPT-4o,28
+16,5815,Nicht in jedem Spital in Österreich kann der Corona-Virus behandelt werden. 59 Spitäler wurden nun speziell dafür ausgerüstet.,Nicht alle Spitäler in Österreich können den Corona-Virus behandeln. 59 Spitäler sind dafür ausgerüstet worden.,ChatGPT-4o,45
+17,10178,Österreichs Verfassung ist 100 Jahre alt.,Österreichs Verfassung ist 100 Jahre alt.,ChatGPT-4o,0
+18,9209,"In Hiroshima hat deshalb am Donnerstag eine Feier stattgefunden, bei der an die vielen Opfer erinnert wurde.",In Hiroshima fand am Donnerstag eine Feier zum Gedenken an die Opfer statt.,ChatGPT-4o,46
+19,2238,Ein sehr wichtiges Thema für die SPÖ in diesem Nationalrats-Wahlkampf ist der Klimawandel.,Ein wichtiges Thema für die SPÖ im Wahlkampf ist der Klimawandel.,ChatGPT-4o,25
+20,9290,Am Sonntag hat in Weißrussland die Präsidenten-Wahl stattgefunden.,Am Sonntag fand in Weißrussland die Präsidentenwahl statt.,ChatGPT-4o,13
+21,2421,"Die ÖVP will den ""Falter"" verklagen.","Die ÖVP will den ""Falter"" verklagen.",ChatGPT-4o,0
+22,6808,Diese Patienten können oft nicht mehr alleine atmen und brauchen dafür eine spezielle Maschine.,Diese Patienten können oft nicht alleine atmen und brauchen eine Maschine.,ChatGPT-4o,21
+23,5711,Bis zum Jahr 2024 wird sie wahrscheinlich ein jährliches Defizit von rund 80 Millionen Euro aufweisen.,Bis 2024 wird es wohl ein jährliches Defizit von etwa 80 Millionen Euro geben.,ChatGPT-4o,33
+24,1934,"Bis Donnerstag haben das die Grünen, die KPÖ und die Partei ""Der Wandel"" geschafft.","Bis Donnerstag haben die Grünen, die KPÖ und die Partei ""Der Wandel"" das geschafft.",ChatGPT-4o,8
+25,8693,Derzeit sind in Österreich 403.382 Personen in Kurzarbeit.,In Österreich sind derzeit 403.382 Personen in Kurzarbeit.,ChatGPT-4o,18
+26,7708,"Viele fürchten aber, dass viele Lokale diese Schließungen wegen der Corona-Krise nicht überleben werden.","Viele befürchten, dass viele Lokale die Schließungen wegen Corona nicht überleben werden.",ChatGPT-4o,19
+27,2592,"Nachbarn sagen, dass er und die Frau sich scheiden lassen wollten.","Nachbarn sagen, dass er und seine Frau sich scheiden lassen wollten.",ChatGPT-4o,3
+28,8731,Laut Medienberichten sollen die flüchtigen Verdächtigen ein schwarzes Auto des Typs Ford Tourneo fahren.,Laut Medienberichten fahren die Verdächtigen ein schwarzes Auto vom Typ Ford Tourneo.,ChatGPT-4o,26
+29,7576,"Er kam aber nicht weit, denn die Polizei stoppte ihn nach wenigen Kilometern.","Er kam nicht weit, weil die Polizei ihn nach wenigen Kilometern stoppte.",ChatGPT-4o,24
+30,6563,"Während Corona-Krise wird niemandem Strom, Gas und Wärme abgedreht.","Während der Corona-Krise wird niemandem Strom, Gas oder Wärme abgedreht.",ChatGPT-4o,8
+31,12621,Laut der Umfrage hat etwa die Hälfte aller Schüler Schwierigkeiten mit dem Aufstehen in der Früh.,"Laut Umfrage haben etwa die Hälfte der Schüler Schwierigkeiten, in der Früh aufzustehen.",ChatGPT-4o,33
+32,12610,Das besagt eine Studie.,Das sagt eine Studie.,ChatGPT-4o,2
+33,9038,Einige der Neuinfektionen gab es in der Stadt Dalian.,Einige der neuen Infektionen gab es in der Stadt Dalian.,ChatGPT-4o,5
+34,2345,"Die Politiker glauben, dass der Premier-Minister sie ausgetrickst hat, um endlich zu einer Entscheidung über den Brexit zu kommen.","Die Politiker glauben, dass der Premierminister sie ausgetrickst hat, um über den Brexit zu entscheiden.",ChatGPT-4o,41
+35,12472,Der Wand-Teppich gehört zum UNESCO-Weltkulturerbe.,Der Wandteppich gehört zum UNESCO-Weltkulturerbe.,ChatGPT-4o,2
+36,1431,US-Amerikaner verschlang 71 Hotdogs in 10 Minuten.,Ein US-Amerikaner hat in 10 Minuten 71 Hotdogs gegessen.,ChatGPT-4o,31
+37,9027,Am stärksten war der Rückgang in Wien.,Der stärkste Rückgang war in Wien.,ChatGPT-4o,16
+38,2748,Am Samstag sind 2 wichtige Öl-Anlagen in Saudi-Arabien durch Drohnenangriffe beschädigt worden.,Am Samstag wurden 2 wichtige Öl-Anlagen in Saudi-Arabien durch Drohnen beschädigt.,ChatGPT-4o,20
+39,6223,Ischgl/Wien -,3 Menschen starben beim Absturz eines Lösch-Flugzeugs in Australien.,ChatGPT-4o,60
+40,5114,3 Menschen starben bei Absturz von Lösch-Flugzeug in Australien.,In vielen Autos gibt es eine Freisprechanlage.,ChatGPT-4o,50
+41,8616,In vielen Autos gibt es eine Freisprech-Einrichtung.,Schwarzarbeit ist illegal.,ChatGPT-4o,44
+42,7617,Schwarz-Arbeit ist illegal.,In Madrid fand vom 2. bis 15. Dezember die UNO-Klimakonferenz statt.,ChatGPT-4o,57
+43,4494,In der spanischen Hauptstadt Madrid hat vom 2. bis zum 15 Dezember die UNO-Klima-Konferenz stattgefunden.,Grund für den Lockdown sind die vielen neuen Corona-Fälle.,ChatGPT-4o,83
+44,12896,Grund für den Lockdown sind die vielen Corona-Neuinfektionen.,In China ist ein neuer Virus aufgetreten.,ChatGPT-4o,43
+45,5433,In China ist vor kurzem ein neuer Virus ausgebrochen.,"Sie hat am Sonntag gesagt, dass sie es blockieren wird.",ChatGPT-4o,46
+46,11553,"Sie hat am Sonntag angekündigt, es zu blockieren.",Die Soldaten helfen auch an den Telefon-Hotlines.,ChatGPT-4o,38
+47,6562,Die Soldaten werden auch an Hotline-Telefonnummern eingesetzt.,49 Prozent der befragten US-Bürger sind mit seiner Arbeit als Präsident zufrieden.,ChatGPT-4o,61
+48,9056,"Die Schulen wissen noch immer nicht, wie im September der Unterricht gestaltet werden soll.","Die Schulen wissen noch nicht, wie der Unterricht im September aussehen wird.",ChatGPT-4o,38
+49,8044,"Ein Handy-Video zeigt, dass bei dem Einsatz ein weißer Polizist mehr als 5 Minuten lang auf Floyds Genick kniete.","Ein Handy-Video zeigt, dass ein weißer Polizist mehr als 5 Minuten auf Floyds Nacken gekniet hat.",ChatGPT-4o,33
+50,6486,Die Grenze zu Deutschland ist geschlossen.,Die Grenze zu Deutschland ist zu.,ChatGPT-4o,11
+51,8396,"Ist jemand mit dem Corona-Virus infiziert, dann kommt der Virus ins Wasser, wenn derjenige aufs Klo muss.","Wenn jemand mit dem Corona-Virus infiziert ist, gelangt der Virus beim Toilettengang ins Wasser.",ChatGPT-4o,46
+52,5334,Der Chef der Regierung heißt Premierminister.,Der Chef der Regierung wird Premierminister genannt.,ChatGPT-4o,12
+53,1951,Die Temperaturen erreichen 20 bis 27 Grad.,Die Temperaturen liegen zwischen 20 und 27 Grad.,ChatGPT-4o,12
+54,9163,"Die beiden Männer aus den USA waren Ende Mai mit dem Raumschiff ""Crew Dragon"" zur internationalen Raumstation ISS geflogen.","Zwei Männer aus den USA sind Ende Mai mit dem Raumschiff ""Crew Dragon"" zur ISS geflogen.",ChatGPT-4o,41
+55,6343,Die meisten Corona-Fälle in Österreich gibt es in Tirol.,In Österreich gibt es die meisten Corona-Fälle in Tirol.,ChatGPT-4o,39
+56,1751,Die Grünen können an der Nationalrats-Wahl teilnehmen.,Die Grünen dürfen bei der Nationalrats-Wahl mitmachen.,ChatGPT-4o,14
+57,924,"Oft passieren Unfälle mit Kindern, die zu Fuß oder mit dem Rad unterwegs waren.","Unfälle passieren oft mit Kindern, die zu Fuß oder mit dem Fahrrad unterwegs sind.",ChatGPT-4o,22
+58,2773,Die Tierfamilie besteht nun aus 8 Affen.,Die Affenfamilie hat jetzt 8 Mitglieder.,ChatGPT-4o,24
+59,641,"Eine Razzia wird meistens genau geplant, damit niemand entkommen kann.","Eine Razzia wird meistens gut geplant, damit niemand entkommen kann.",ChatGPT-4o,4
+60,6418,So können zum Beispiel größere Ansammlungen von Menschen entdeckt werden.,So können zum Beispiel größere Menschengruppen entdeckt werden.,ChatGPT-4o,20
+61,12443,"Österreich will ihn aber auch einführen, wenn sich die EU doch dagegen entschließt.","Österreich will das auch einführen, wenn die EU dagegen ist.",ChatGPT-4o,26
+62,675,Auf dem Sarg liegt Laudas Rennhelm.,Auf dem Sarg liegt Laudas Rennhelm.,ChatGPT-4o,0
+63,11257,In 3 Wochen wird sie die zweite Impfung erhalten.,In 3 Wochen bekommt sie die zweite Impfung.,ChatGPT-4o,16
+64,7229,Im Friseur-Laden müssen die Kunden genügend Abstand zu anderen Kunden halten.,Im Friseursalon müssen die Kunden Abstand halten.,ChatGPT-4o,31
+65,8516,Salzburg liegt derzeit mit großem Vorsprung an erster Stelle in der Bundesliga.,Salzburg ist aktuell mit großem Vorsprung auf Platz 1 in der Bundesliga.,ChatGPT-4o,22
+66,6856,Wegen der Corona-Krise hat man keine Speisen von Lokalen abholen dürfen.,Wegen der Corona-Krise durfte man kein Essen aus Lokalen abholen.,ChatGPT-4o,20
+67,6446,"Alle 4 Jahre finden die Sommerspiele statt, und dazwischen alle 4 Jahre die Winterspiele.",Alle 4 Jahre finden die Sommerspiele und die Winterspiele im Wechsel statt.,ChatGPT-4o,38
+68,6921,In Wien gibt es eigenes Zeichen für Maskenpflicht in Verkehrsmitteln.,In Wien gibt es ein eigenes Zeichen für die Maskenpflicht in Verkehrsmitteln.,ChatGPT-4o,8
+69,2096,In Italien bilden die Parteien Lega und 5 Sterne gemeinsam die Regierung.,In Italien bilden die Parteien Lega und 5 Sterne die Regierung.,ChatGPT-4o,10
+70,5951,Ludwig zeigte sich begeistert von seinem Paten-Tier.,Ludwig freut sich über sein Paten-Tier.,ChatGPT-4o,19
+71,3116,"Es kann aber auch sein, dass der Mann psychische Probleme hatte.","Es kann sein, dass der Mann psychische Probleme hatte.",ChatGPT-4o,10
+72,1330,Eigentlich hätte es dieses Verbot längst geben sollen.,Dieses Verbot hätte es schon früher geben sollen.,ChatGPT-4o,28
+73,5401,Die EU-Kommission will Krebs besser bekämpfen.,Die EU-Kommission will Krebs besser bekämpfen.,ChatGPT-4o,0
+74,3230,Vor 15 Jahren bekam schon die Schriftstellerin Elfriede Jelinek den Literatur-Nobelpreis.,Vor 15 Jahren hat Elfriede Jelinek den Nobelpreis für Literatur bekommen.,ChatGPT-4o,49
+75,12081,"Im stärksten Winter-Bundesland Tirol rechnet das Wifo nur mit 3,1 Millionen Nächtigungen.","In Tirol wird nur mit 3,1 Millionen Übernachtungen gerechnet.",ChatGPT-4o,59
+76,6434,"Schulen, Restaurants und die meisten Geschäfte sind geschlossen.","Schulen, Restaurants und die meisten Geschäfte sind zu.",ChatGPT-4o,11
+77,12709,Wenig später wurde ein 21-jähriger Mann verhaftet.,Wenig später wurde ein 21-jähriger Mann festgenommen.,ChatGPT-4o,10
+78,12631,"48.500 Menschen haben sich bereits für die Impfung angemeldet, das sind 76 Prozent aller Berechtigten in dem Bezirk.","48.500 Menschen haben sich für die Impfung angemeldet, das sind 76 Prozent der Berechtigten im Bezirk.",ChatGPT-4o,15
+79,7921,Oder in ihrem Zuhause fehlt das Internet.,Manche haben kein Internet zu Hause.,ChatGPT-4o,32
+80,8420,Seit Montag kann man in Österreich das Klima-Volksbegehren unterstützen.,Seit Montag kann man in Österreich das Klima-Volksbegehren unterschreiben.,ChatGPT-4o,6
+81,4844,"Vor allem Tiere wie Koalas, Kängurus und Vögel sind durch die Brände getötet worden.","Vor allem Tiere wie Koalas, Kängurus und Vögel sind durch die Brände gestorben.",ChatGPT-4o,7
+82,6961,Wegen dem Corona-Virus waren viele Geschäfte in Österreich seit einem Monat zu.,Wegen des Corona-Virus waren viele Geschäfte in Österreich einen Monat geschlossen.,ChatGPT-4o,18
+83,686,ÖVP nominierte Kurz zum Spitzen-Kandidaten für die Nationalrats-Wahl.,Die ÖVP hat Kurz als Spitzenkandidaten für die Nationalrats-Wahl aufgestellt.,ChatGPT-4o,29
+84,10647,Im Bundesländer-Vergleich haben die Steirer im Vorjahr am meisten gespart.,Die Steirer haben im letzten Jahr am meisten gespart.,ChatGPT-4o,36
+85,12831,"Die Impf-Dosen sollten offenbar heimlich ins Ausland gebracht werden, obwohl in der EU noch viele Impfdosen fehlen.","Die Impf-Dosen sollten heimlich ins Ausland gebracht werden, obwohl in der EU noch Impfstoff fehlt.",ChatGPT-4o,22
+86,8730,Weitere Verdächtige waren am Mittwochnachmittag noch auf der Flucht.,Weitere Verdächtige waren am Mittwochnachmittag noch auf der Flucht.,ChatGPT-4o,0
+87,6547,Die Nacht wird also eine Stunde kürzer sein.,Die Nacht wird eine Stunde kürzer sein.,ChatGPT-4o,5
+88,1830,"Die meisten Asyl-Anträge kommen von Menschen aus Afghanistan, Syrien, Iran und dem Irak.","Die meisten Asylanträge kommen von Menschen aus Afghanistan, Syrien, Iran und dem Irak.",ChatGPT-4o,2
+89,1599,"Donald Trump drohte deshalb, Nordkorea zu vernichten.","Donald Trump hat gedroht, Nordkorea zu vernichten.",ChatGPT-4o,11
+90,1756,14-jähriger Bub soll seine eigene Mutter erstochen haben.,Ein 14-jähriger Junge soll seine Mutter erstochen haben.,ChatGPT-4o,15
+91,6744,"Die österreichische Regierung denkt darüber nach, langsam wieder die Geschäfte zu öffnen.","Die österreichische Regierung denkt darüber nach, die Geschäfte wieder langsam zu öffnen.",ChatGPT-4o,24
+92,263,41 Tote bei Flugzeug-Notlandung in Moskau.,Bei einer Notlandung in Moskau sind 41 Menschen gestorben.,ChatGPT-4o,44
+93,4273,Auf diese Weise soll die Frau illegal mehr als 4 Millionen Euro bekommen haben.,Die Frau soll illegal mehr als 4 Millionen Euro bekommen haben.,ChatGPT-4o,21
+94,6440,Zurzeit werden weltweit viele sportliche Ereignisse und Wettbewerbe abgesagt.,Zurzeit werden weltweit viele sportliche Ereignisse abgesagt.,ChatGPT-4o,16
+95,10306,Derzeit sind in Österreich 9.930 Menschen in Österreich mit dem Virus angesteckt.,Derzeit sind in Österreich 9.930 Menschen mit dem Virus angesteckt.,ChatGPT-4o,14
+96,7140,Das Gemüse hat eine gelbe Schale mit violetten Streifen.,Das Gemüse hat eine gelbe Schale mit violetten Streifen.,ChatGPT-4o,0
+97,5457,Danach brach das Flugzeug in mehrere Teile und geriet teilweise in Brand.,Danach brach das Flugzeug in Teile und fing teilweise Feuer.,ChatGPT-4o,20
+98,11914,Darum hat im Jahr 2020 die Schwarz-Arbeit in Österreich stark zugenommen.,Im Jahr 2020 gab es viel mehr Schwarzarbeit in Österreich.,ChatGPT-4o,43
+99,8520,"Heute sind 193 Länder Mitglieder der UNO, das sind fast alle Länder der Welt.","Heute sind fast alle Länder der Welt Mitglieder der UNO, es sind 193.",ChatGPT-4o,45
